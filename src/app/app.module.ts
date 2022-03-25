@@ -9,7 +9,7 @@ import { ExerciseComponent } from './exercise/exercise.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
-  declarations: [ AppComponent, HelloComponent, DesignComponent,ExerciseComponent ],
-  bootstrap:    [ AppComponent, DesignComponent, ExerciseComponent ]
+  declarations: [ AppComponent, HelloComponent, DesignComponent ],
+  bootstrap:    [ AppComponent, DesignComponent]
 })
 export class AppModule { }
