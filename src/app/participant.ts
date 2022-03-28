@@ -31,6 +31,12 @@ export const participant = [
   id: 5,
   name: 'Ashley',
   address: 'Canada'
+},
+
+{
+  id: 6,
+  name: 'Haley',
+  address: 'Canada'
 }
 
 ];
